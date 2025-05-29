@@ -5,4 +5,4 @@ scikit-learn
 scikit-surprise
 cython>=0.29.21
 joblib>=1.1.0
---extra-index-url https://pypi.org/simple
+
